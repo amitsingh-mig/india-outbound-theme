@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 737 116" width="737" height="116">
+  <defs>
+    <linearGradient id="qr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#400523"/>
+      <stop offset="60%" stop-color="#5c0632"/>
+      <stop offset="100%" stop-color="#220212"/>
+    </linearGradient>
+    <linearGradient id="qr-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f3e5ab"/>
+    </linearGradient>
+    <linearGradient id="qr-btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c59b27"/>
+      <stop offset="100%" stop-color="#e0b84c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="737" height="116" fill="url(#qr-bg)"/>
+
+  <!-- Geometric Luxury Accent Lines -->
+  <g stroke="url(#qr-gold)" stroke-width="0.8" opacity="0.25">
+    <line x1="0" y1="116" x2="150" y2="0"/>
+    <line x1="40" y1="116" x2="190" y2="0"/>
+    <circle cx="680" cy="58" r="90" fill="none" stroke-width="1.2"/>
+    <circle cx="680" cy="58" r="70" fill="none" stroke-width="0.6"/>
+  </g>
+
+  <!-- Left: Brand Emblem -->
+  <g transform="translate(32, 28)">
+    <!-- Oryx-inspired emblem silhouette -->
+    <circle cx="26" cy="28" r="24" fill="#6f0b3e" stroke="url(#qr-gold)" stroke-width="1.5"/>
+    <path d="M 18 36 L 24 20 L 32 16 L 36 28 L 26 38 Z" fill="url(#qr-gold)"/>
+    <path d="M 28 14 L 38 6 M 31 16 L 43 8" stroke="url(#qr-gold)" stroke-width="1.8" stroke-linecap="round"/>
+
+    <text x="62" y="24" fill="#ffffff" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="700" letter-spacing="0.04em">QATAR AIRWAYS</text>
+    <text x="62" y="40" fill="url(#qr-gold)" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="700" text-transform="uppercase" letter-spacing="0.16em">Skytrax World’s Best Airline 2026</text>
+  </g>
+
+  <!-- Middle: Message -->
+  <g transform="translate(290, 26)">
+    <text x="0" y="19" fill="#ffffff" font-family="'Playfair Display', Georgia, serif" font-size="19" font-weight="700">Fly Beyond the Ordinary</text>
+    <text x="0" y="42" fill="#e2d9dc" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="400">Non-stop connections from 13 Indian cities to 170+ destinations</text>
+    <text x="0" y="60" fill="#f3e5ab" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="10.5" font-weight="600">✦ Special B2B Corporate Rates &amp; Group Booking Privileges</text>
+  </g>
+
+  <!-- Right: Call to Action Button -->
+  <g transform="translate(585, 41)">
+    <rect width="124" height="34" rx="17" fill="url(#qr-btn)"/>
+    <text x="62" y="21" fill="#2d0517" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" font-weight="800" text-anchor="middle" letter-spacing="0.02em">Book Flights →</text>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 737 116" width="737" height="116">
+  <defs>
+    <linearGradient id="mr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12161f"/>
+      <stop offset="50%" stop-color="#1c1a1f"/>
+      <stop offset="100%" stop-color="#2a201c"/>
+    </linearGradient>
+    <linearGradient id="mr-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c89d66"/>
+      <stop offset="100%" stop-color="#e8cca4"/>
+    </linearGradient>
+    <linearGradient id="mr-btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b4884d"/>
+      <stop offset="100%" stop-color="#cf9f60"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="737" height="116" fill="url(#mr-bg)"/>
+
+  <!-- Subtle hotel architecture geometry -->
+  <g opacity="0.1" stroke="#e8cca4" stroke-width="0.8">
+    <rect x="630" y="15" width="80" height="86" fill="none"/>
+    <line x1="630" y1="35" x2="710" y2="35"/>
+    <line x1="630" y1="55" x2="710" y2="55"/>
+    <line x1="630" y1="75" x2="710" y2="75"/>
+    <line x1="670" y1="15" x2="670" y2="101"/>
+  </g>
+
+  <!-- Left: Brand Emblem -->
+  <g transform="translate(32, 25)">
+    <!-- Stylized Marriott "M" Crest -->
+    <circle cx="24" cy="25" r="22" fill="#241e24" stroke="url(#mr-gold)" stroke-width="1.2"/>
+    <text x="24" y="33" fill="url(#mr-gold)" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" text-anchor="middle">M</text>
+
+    <text x="56" y="22" fill="#ffffff" font-family="'Playfair Display', Georgia, serif" font-size="17" font-weight="700">MARRIOTT</text>
+    <text x="56" y="38" fill="url(#mr-gold)" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="700" text-transform="uppercase" letter-spacing="0.18em">BONVOY EVENTS</text>
+  </g>
+
+  <!-- Middle: Message -->
+  <g transform="translate(245, 26)">
+    <text x="0" y="19" fill="#ffffff" font-family="'Playfair Display', Georgia, serif" font-size="19" font-weight="700">Elevate Outbound Group &amp; Luxury Stays</text>
+    <text x="0" y="42" fill="#d1d5db" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="400">Over 30 hotel brands across 139 countries with dedicated Indian catering &amp; MICE</text>
+    <text x="0" y="60" fill="url(#mr-gold)" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="10.5" font-weight="600">✦ Exclusive Travel Trade Commission Rates &amp; Planner Points</text>
+  </g>
+
+  <!-- Right: Call to Action Button -->
+  <g transform="translate(585, 41)">
+    <rect width="124" height="34" rx="17" fill="url(#mr-btn)"/>
+    <text x="62" y="21" fill="#181310" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" font-weight="800" text-anchor="middle" letter-spacing="0.02em">Partner Access →</text>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 737 116" width="737" height="116">
+  <defs>
+    <linearGradient id="vb-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1b3d"/>
+      <stop offset="50%" stop-color="#142c5a"/>
+      <stop offset="100%" stop-color="#1c3d75"/>
+    </linearGradient>
+    <linearGradient id="vb-btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cf142b"/>
+      <stop offset="100%" stop-color="#e62039"/>
+    </linearGradient>
+    <pattern id="vb-dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="737" height="116" fill="url(#vb-bg)"/>
+  <rect width="737" height="116" fill="url(#vb-dots)"/>
+
+  <!-- Decorative British Union Accent Ribbon -->
+  <path d="M 0 0 L 28 0 L 0 56 Z" fill="#cf142b" opacity="0.85"/>
+  <path d="M 0 0 L 14 0 L 0 28 Z" fill="#ffffff" opacity="0.9"/>
+  <circle cx="690" cy="58" r="75" fill="#2563eb" opacity="0.08"/>
+
+  <!-- Left: Brand Emblem & Category -->
+  <g transform="translate(32, 22)">
+    <!-- Union Flag Mini Badge -->
+    <rect x="0" y="2" width="34" height="22" rx="3" fill="#012169"/>
+    <path d="M 0 2 L 34 24 M 34 2 L 0 24" stroke="#ffffff" stroke-width="3"/>
+    <path d="M 0 2 L 34 24 M 34 2 L 0 24" stroke="#cf142b" stroke-width="1.8"/>
+    <path d="M 17 2 L 17 24 M 0 13 L 34 13" stroke="#ffffff" stroke-width="5"/>
+    <path d="M 17 2 L 17 24 M 0 13 L 34 13" stroke="#cf142b" stroke-width="3"/>
+
+    <text x="44" y="14" fill="#ffffff" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="800" letter-spacing="0.05em">VisitBritain</text>
+    <text x="44" y="27" fill="#93c5fd" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5" font-weight="600" text-transform="uppercase" letter-spacing="0.1em">Official Tourism Partner</text>
+  </g>
+
+  <!-- Middle: Campaign Message -->
+  <g transform="translate(230, 26)">
+    <text x="0" y="19" fill="#ffffff" font-family="'Playfair Display', Georgia, serif" font-size="20" font-weight="700">See Britain Differently</text>
+    <text x="0" y="42" fill="#cbd5e1" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="400">Curated travel itineraries across England, Scotland &amp; Wales for Indian travel trade</text>
+    <text x="0" y="60" fill="#f59e0b" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="10.5" font-weight="600">★ Dedicated B2B Resource Hub &amp; Visa Briefings</text>
+  </g>
+
+  <!-- Right: Call to Action Button -->
+  <g transform="translate(585, 41)">
+    <rect width="124" height="34" rx="17" fill="url(#vb-btn)"/>
+    <text x="62" y="21" fill="#ffffff" font-family="'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" font-weight="700" text-anchor="middle" letter-spacing="0.02em">Explore Hub →</text>
+  </g>
+</svg>

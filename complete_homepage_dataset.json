@@ -1,0 +1,688 @@
+{
+  "focus": {
+    "sectionTitle": "Focus",
+    "lead": {
+      "category": "Trade News",
+      "title": "ETOA launches second edition of ‘Showcase: Outbound India’",
+      "url": "https://indiaoutbound.info/trade-news/etoa-launches-second-edition-of-showcase-outbound-india/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/ETOA-625x470.jpg",
+      "date": "October 23, 2026",
+      "author": "India Outbound",
+      "location": "New Delhi"
+    },
+    "supportingGrid": [
+      {
+        "category": "Aviation",
+        "title": "Taiwan at epicentre as Typhoon Champi disrupts hundreds of flights",
+        "url": "https://indiaoutbound.info/aviation/taiwan-at-epicentre-as-typhoon-champi-disrupts-hundreds-of-flights/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Typhoon-champi-313x230.jpg",
+        "date": "October 23, 2026",
+        "location": "Port Dickson"
+      },
+      {
+        "category": "Aviation",
+        "title": "Marginal decline in London Heathrow traffic from January to September",
+        "url": "https://indiaoutbound.info/aviation/marginal-decline-in-london-heathrow-traffic-from-january-to-september/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/LHT-313x230.jpg",
+        "date": "October 23, 2026",
+        "location": "Port Dickson"
+      },
+      {
+        "category": "Aviation",
+        "title": "Cathay Group registers 14 pc growth in passenger traffic in January-September",
+        "url": "https://indiaoutbound.info/aviation/cathay-group-registers-14-pc-growth-in-passenger-traffic-in-january-september/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Cathay-313x230.jpg",
+        "date": "October 23, 2026",
+        "location": "Port Dickson"
+      },
+      {
+        "category": "Trade News",
+        "title": "Namibia registers higher accommodation occupancy as rhino poaching declines",
+        "url": "https://indiaoutbound.info/trade-news/namibia-registers-higher-accommodation-occupancy-as-rhino-poaching-declines/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Hospitality-association-of-Namibia-313x230.jpg",
+        "date": "October 23, 2026",
+        "location": "Port Dickson"
+      }
+    ],
+    "sidebarList": [
+      {
+        "title": "ETOA launches second edition of ‘Showcase: Outbound India’",
+        "url": "https://indiaoutbound.info/trade-news/etoa-launches-second-edition-of-showcase-outbound-india/"
+      },
+      {
+        "title": "Taiwan at epicentre as Typhoon Champi disrupts hundreds of flights",
+        "url": "https://indiaoutbound.info/aviation/taiwan-at-epicentre-as-typhoon-champi-disrupts-hundreds-of-flights/"
+      },
+      {
+        "title": "Marginal decline in London Heathrow traffic from January to September",
+        "url": "https://indiaoutbound.info/aviation/marginal-decline-in-london-heathrow-traffic-from-january-to-september/"
+      },
+      {
+        "title": "Cathay Group registers 14 pc growth in passenger traffic in January-September",
+        "url": "https://indiaoutbound.info/aviation/cathay-group-registers-14-pc-growth-in-passenger-traffic-in-january-september/"
+      },
+      {
+        "title": "Namibia registers higher accommodation occupancy as rhino poaching declines",
+        "url": "https://indiaoutbound.info/trade-news/namibia-registers-higher-accommodation-occupancy-as-rhino-poaching-declines/"
+      },
+      {
+        "title": "Air India begins construction of MRO hangar at Delhi airport",
+        "url": "https://indiaoutbound.info/aviation/air-india-begins-construction-of-mro-hangar-at-delhi-airport/"
+      },
+      {
+        "title": "San Francisco to mark 60th anniversary of ‘Summer of Love’ at Rose Parade",
+        "url": "https://indiaoutbound.info/trade-news/san-francisco-to-mark-60th-anniversary-of-summer-of-love-at-rose-parade/"
+      },
+      {
+        "title": "Chinese visa applications in India to shift to embassy from October 26",
+        "url": "https://indiaoutbound.info/trade-news/chinese-visa-applications-in-india-to-shift-to-embassy-from-october-26/"
+      }
+    ]
+  },
+  "tradeNews": {
+    "sectionTitle": "Trade News",
+    "url": "https://indiaoutbound.info/category/trade-news/",
+    "stories": [
+      {
+        "title": "ETOA launches second edition of ‘Showcase: Outbound India’",
+        "url": "https://indiaoutbound.info/trade-news/etoa-launches-second-edition-of-showcase-outbound-india/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/ETOA-400x300.jpg",
+        "date": "October 23, 2026"
+      },
+      {
+        "title": "Namibia registers higher accommodation occupancy as rhino poaching declines",
+        "url": "https://indiaoutbound.info/trade-news/namibia-registers-higher-accommodation-occupancy-as-rhino-poaching-declines/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Hospitality-association-of-Namibia-400x300.jpg",
+        "date": "October 23, 2026"
+      },
+      {
+        "title": "San Francisco to mark 60th anniversary of ‘Summer of Love’ at Rose Parade",
+        "url": "https://indiaoutbound.info/trade-news/san-francisco-to-mark-60th-anniversary-of-summer-of-love-at-rose-parade/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Lead-editorials-7-400x300.jpg",
+        "date": "October 22, 2026"
+      },
+      {
+        "title": "Chinese visa applications in India to shift to embassy from October 26",
+        "url": "https://indiaoutbound.info/trade-news/chinese-visa-applications-in-india-to-shift-to-embassy-from-october-26/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-3.39.41-PM-1-400x300.jpeg",
+        "date": "October 22, 2026"
+      },
+      {
+        "title": "TravClan raises USD 5 million to expand global travel operations",
+        "url": "https://indiaoutbound.info/trade-news/travclan-raises-usd-5-million-to-expand-global-travel-operations/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Lawyer-protest-2-400x300.jpg",
+        "date": "October 21, 2026"
+      },
+      {
+        "title": "Eastbound Group appoints representatives for UK MICE and leisure businesses",
+        "url": "https://indiaoutbound.info/trade-news/eastbound-group-appoints-representatives-for-uk-mice-and-leisure-businesses/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Eastbound-Group-400x300.jpg",
+        "date": "October 20, 2026"
+      },
+      {
+        "title": "Sarawak records 3.52 million visitors in nine months",
+        "url": "https://indiaoutbound.info/trade-news/sarawak-records-3-52-million-visitors-in-nine-months/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Sarawak-tourism-board-1-400x300.jpg",
+        "date": "October 19, 2026"
+      },
+      {
+        "title": "Despite overall decline, Indian arrivals in Japan rise 8.7 pc in September",
+        "url": "https://indiaoutbound.info/trade-news/despite-overall-decline-indian-arrivals-in-japan-rise-8-7-pc-in-september/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Japan-400x300.jpg",
+        "date": "October 18, 2026"
+      },
+      {
+        "title": "Zambia targets five million tourists by 2031",
+        "url": "https://indiaoutbound.info/trade-news/zambia-targets-five-million-tourists-by-2031/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Zambia-lead-400x300.jpg",
+        "date": "October 17, 2026"
+      }
+    ]
+  },
+  "ioExclusive": {
+    "sectionTitle": "IO Exclusive",
+    "url": "https://indiaoutbound.info/category/io-exclusive/",
+    "lead": {
+      "category": "IO Exclusive",
+      "title": "Passengers irked as airlines profiteer over seats",
+      "url": "https://indiaoutbound.info/io-exclusive/passengers-irked-as-airlines-profiteer-over-seats/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/passengers-irked-as-airline-400x300.jpg",
+      "date": "October 2026",
+      "author": "Masrat Nabi"
+    },
+    "articles": [
+      {
+        "title": "Borjomi: In the healing hills of Georgia",
+        "url": "https://indiaoutbound.info/experiences/borjomi-in-the-healing-hills-of-georgia/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Borjomi-Georgia-1-400x300.jpg"
+      },
+      {
+        "title": "Airport Lounges: Opening floodgates to havens of exclusivity",
+        "url": "https://indiaoutbound.info/market-analysis/airport-lounges-opening-floodgates-to-havens-ofexclusivity/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Airport-lounges-400x300.jpg"
+      },
+      {
+        "title": "VisitBritain promotes Northern England to boost Indian arrivals",
+        "url": "https://indiaoutbound.info/trade-news/visitbritain-promotes-northern-england-to-boost-indian-arrivals/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/VisitBritain-400x300.jpg"
+      },
+      {
+        "title": "Spiritual travel: A new route for the outbound indian",
+        "url": "https://indiaoutbound.info/io-exclusive/spiritual-travel-a-new-route-for-the-outbound-indian/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Spiritual-travel-400x300.jpg"
+      },
+      {
+        "title": "Israel Tourism holds roadshow in Delhi with over 80 Indian travel trade partners",
+        "url": "https://indiaoutbound.info/io-exclusive/israel-tourism-holds-roadshow-in-delhi-with-over-80-indian-travel-trade-partners/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Israel-Tourism-400x300.jpg"
+      },
+      {
+        "title": "Kissimmee : Where the world stays when it goes to play in United States",
+        "url": "https://indiaoutbound.info/hotels/kissimmee-where-the-world-stays-when-it-goes-to-play-in-united-states/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Kissimmee-lead-400x300.jpg"
+      },
+      {
+        "title": "Taiwan Tourism Administration holds New Delhi roadshow with over 100 Indian buyers",
+        "url": "https://indiaoutbound.info/market-analysis/taiwan-tourism-administration-holds-new-delhi-roadshow-with-over-70-indian-buyers/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Taiwan-Tourism-Administration-400x300.jpg"
+      },
+      {
+        "title": "India outbids 20 nations to host 27th Global Summit of WTTC in 2027",
+        "url": "https://indiaoutbound.info/trade-news/india-outbids-20-nations-to-host-27th-global-summit-of-wttc-in-2027/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/WTTC-conclave-400x300.jpg"
+      }
+    ]
+  },
+  "marketAnalysis": {
+    "sectionTitle": "Market Analysis",
+    "url": "https://indiaoutbound.info/category/market-analysis/",
+    "featuredReport": {
+      "category": "Market Analysis",
+      "title": "Passengers irked as airlines profiteer over seats",
+      "url": "https://indiaoutbound.info/io-exclusive/passengers-irked-as-airlines-profiteer-over-seats/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/passengers-irked-as-airline-790x435.jpg",
+      "author": "Masrat Nabi",
+      "date": "October 16, 2026",
+      "location": "New Delhi"
+    },
+    "structuredListings": [
+      {
+        "title": "Airport Lounges: Opening floodgates to havens of exclusivity",
+        "url": "https://indiaoutbound.info/market-analysis/airport-lounges-opening-floodgates-to-havens-ofexclusivity/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Airport-lounges-400x300.jpg",
+        "author": "Masrat Nabi",
+        "date": "September 24, 2026",
+        "location": "New Delhi"
+      },
+      {
+        "title": "Spiritual travel: A new route for the outbound indian",
+        "url": "https://indiaoutbound.info/io-exclusive/spiritual-travel-a-new-route-for-the-outbound-indian/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Spiritual-travel-400x300.jpg",
+        "author": "Masrat Nabi",
+        "date": "September 18, 2026",
+        "location": "New Delhi"
+      },
+      {
+        "title": "Taiwan Tourism Administration holds New Delhi roadshow with over 100 Indian buyers",
+        "url": "https://indiaoutbound.info/market-analysis/taiwan-tourism-administration-holds-new-delhi-roadshow-with-over-70-indian-buyers/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Taiwan-Tourism-Administration-400x300.jpg",
+        "author": "India Outbound",
+        "date": "September 12, 2026",
+        "location": "New Delhi"
+      },
+      {
+        "title": "South Africa targets 100,000 Indian tourists this year",
+        "url": "https://indiaoutbound.info/io-exclusive/south-africa-targets-100000-indian-tourists-this-year/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/07/South-Africa-400x300.jpg",
+        "author": "Masrat Nabi",
+        "date": "July 29, 2026",
+        "location": "New Delhi"
+      },
+      {
+        "title": "High rolling Indian travellers caught in visa roller coaster",
+        "url": "https://indiaoutbound.info/market-analysis/high-rolling-indian-travellers-caught-in-visa-roller-coaster/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/07/High-rolling-Indian-travellers-caught-in-visa-roller-coaster-400x300.jpg",
+        "author": "Ranvir Nayar",
+        "date": "July 24, 2026",
+        "location": "New Delhi"
+      },
+      {
+        "title": "With 24 pc growth in May, Ras Al Khaimah plans stronger India push",
+        "url": "https://indiaoutbound.info/market-analysis/with-24-pc-growth-in-may-ras-al-khaimah-plans-stronger-india-push/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/06/Ras-Al-Khaimah-lead-1-400x300.jpg",
+        "author": "Varsha Singh",
+        "date": "June 25, 2026",
+        "location": "Dubai, UAE"
+      }
+    ]
+  },
+  "experiences": {
+    "sectionTitle": "Experiences",
+    "url": "https://indiaoutbound.info/category/experiences/",
+    "lead": {
+      "title": "Borjomi: In the healing hills of Georgia",
+      "url": "https://indiaoutbound.info/experiences/borjomi-in-the-healing-hills-of-georgia/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Borjomi-Georgia-1-790x435.jpg",
+      "author": "India Outbound",
+      "date": "October 14, 2026",
+      "category": "Experience",
+      "excerpt": "Nestled in the lush hills of central Georgia, Borjomi offers mineral springs, pine-scented air and mountain landscapes that have drawn travellers for generations."
+    },
+    "items": [
+      {
+        "title": "La Vallée Village, Paris : A day In haven of luxury shopping",
+        "url": "https://indiaoutbound.info/io-exclusive/la-vallee-village-paris-a-day-in-haven-of-luxury-shopping/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/La-Vallee-Village-1-400x300.jpg",
+        "author": "Varsha Singh",
+        "date": "September 29, 2026",
+        "location": "Paris, France"
+      },
+      {
+        "title": "Alpine adventures in Southern France",
+        "url": "https://indiaoutbound.info/experiences/adventure/alpine-adventures-in-southern-france/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/08/Hautes-Alpes-Lead-400x300.jpg",
+        "author": "Varsha Singh",
+        "date": "August 19, 2026",
+        "location": "Hautes Alpes, PACA, France"
+      },
+      {
+        "title": "Unlayering Baku: Capital by the Caspian coast",
+        "url": "https://indiaoutbound.info/io-exclusive/unlayering-baku-capital-by-the-caspian-coast/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/08/baku-lead-1-400x300.jpg",
+        "author": "Varsha Singh",
+        "date": "August 12, 2026",
+        "location": "Baku, Azerbaijan"
+      },
+      {
+        "title": "Sounds of music in cultural crossroads of Cádiz",
+        "url": "https://indiaoutbound.info/io-exclusive/sounds-of-music-in-cultural-crossroads-of-cadiz/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/08/Cadiz-400x300.jpg",
+        "author": "Varsha Singh",
+        "date": "August 5, 2026",
+        "location": "Cádiz, Spain"
+      }
+    ]
+  },
+  "mice": {
+    "sectionTitle": "MICE",
+    "url": "https://indiaoutbound.info/category/mice/",
+    "lead": {
+      "title": "To boost MICE, Experience Kissimmee rolls out Meeting Impact Incentive",
+      "url": "https://indiaoutbound.info/trade-news/to-boost-mice-experience-kissimmee-rolls-out-meeting-impact-incentive/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Kissimmee-lead-670x500.jpg",
+      "date": "September 2026",
+      "category": "MICE / Trade News"
+    },
+    "items": [
+      {
+        "title": "New Zealand targets global events with new convention centre in Auckland",
+        "url": "https://indiaoutbound.info/trade-news/new-zealand-targets-global-events-with-new-convention-centre-in-auckland/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/NZICC-1-400x300.jpg",
+        "date": "September 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      },
+      {
+        "title": "Global exhibition industry optimistic on growth in 2026: UFI",
+        "url": "https://indiaoutbound.info/mice/global-exhibition-industry-optimistic-on-growth-in-2026-ufi/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/07/Lead-editorials-2-400x300.jpg",
+        "date": "July 2026",
+        "author": "India Outbound",
+        "location": "Paris"
+      }
+    ]
+  },
+  "aviation": {
+    "sectionTitle": "Aviation",
+    "url": "https://indiaoutbound.info/category/aviation/",
+    "lead": {
+      "title": "Taiwan at epicentre as Typhoon Champi disrupts hundreds of flights",
+      "url": "https://indiaoutbound.info/aviation/taiwan-at-epicentre-as-typhoon-champi-disrupts-hundreds-of-flights/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Typhoon-champi-670x500.jpg",
+      "date": "October 23, 2026",
+      "category": "Aviation"
+    },
+    "items": [
+      {
+        "title": "Marginal decline in London Heathrow traffic from January to September",
+        "url": "https://indiaoutbound.info/aviation/marginal-decline-in-london-heathrow-traffic-from-january-to-september/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/LHT-400x300.jpg",
+        "date": "October 23, 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      },
+      {
+        "title": "Cathay Group registers 14 pc growth in passenger traffic in January-September",
+        "url": "https://indiaoutbound.info/aviation/cathay-group-registers-14-pc-growth-in-passenger-traffic-in-january-september/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Cathay-400x300.jpg",
+        "date": "October 23, 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      }
+    ]
+  },
+  "technology": {
+    "sectionTitle": "Technology",
+    "url": "https://indiaoutbound.info/category/technology/",
+    "lead": {
+      "title": "AI reshapes travel industry, human expertise remains key",
+      "url": "https://indiaoutbound.info/market-analysis/ai-reshapes-travel-industry-human-expertise-remains-key/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/07/Lead-editorials-1-670x500.jpg",
+      "date": "July 2026",
+      "category": "Technology"
+    },
+    "items": [
+      {
+        "title": "UPI extends reach to Greece with cross-border remittances",
+        "url": "https://indiaoutbound.info/trade-news/upi-extends-r-each-to-greece-with-cross-border-remittances/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/07/UPI-1-400x300.jpg",
+        "date": "July 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      },
+      {
+        "title": "Over 4.5 million merchant outlets in Cambodia to accept UPI",
+        "url": "https://indiaoutbound.info/technology/over-4-5-million-merchant-outlets-in-cambodia-to-accept-upi/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/06/IO-Lead-71-400x300.png",
+        "date": "June 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      }
+    ]
+  },
+  "films": {
+    "sectionTitle": "Films",
+    "url": "https://indiaoutbound.info/category/film/",
+    "lead": {
+      "title": "Abu Dhabi to host 27th IIFA Awards on January 22-23, 2027",
+      "url": "https://indiaoutbound.info/events/abu-dhabi-to-host-27th-iifa-awards-on-january-22-23-2027/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/IIFA-2027-Return-to-Yas-Island-Abu-Dhabi-Officially-Announced-at-Arabian-Travel-Market-2026.jpg-670x500.jpeg",
+      "date": "September 2026",
+      "category": "Films"
+    },
+    "items": [
+      {
+        "title": "Destinations turn to film tourism to boost Indian arrivals",
+        "url": "https://indiaoutbound.info/market-analysis/destinations-turn-to-film-tourism-to-boost-indian-arrivals/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/05/lead-400x300.jpg",
+        "date": "May 2026",
+        "author": "Sanvi Choudhary",
+        "location": "New Delhi"
+      },
+      {
+        "title": "‘Wuthering Heights’ propels tourism to Yorkshire: Bokun",
+        "url": "https://indiaoutbound.info/trade-news/wuthering-heights-propels-tourism-to-yorkshire-bokun/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/02/IO-Lead-6-400x300.png",
+        "date": "February 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      }
+    ],
+    "adBanner": {
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/04/Banner-India-Outbound-Media-May.jpg",
+      "url": "#"
+    }
+  },
+  "hotels": {
+    "sectionTitle": "Hotels",
+    "url": "https://indiaoutbound.info/category/hotels/",
+    "lead": {
+      "title": "Greek hotels face revenue pressure as August room rates fall to EUR 189",
+      "url": "https://indiaoutbound.info/hotels/greek-hotels-face-revenue-pressure-as-august-room-rates-fall-to-eur189/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Greece-hotel-1-790x435.jpg",
+      "date": "October 2026",
+      "category": "Hotels"
+    },
+    "items": [
+      {
+        "title": "Kissimmee : Where the world stays when it goes to play in United States",
+        "url": "https://indiaoutbound.info/hotels/kissimmee-where-the-world-stays-when-it-goes-to-play-in-united-states/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Kissimmee-lead-400x300.jpg",
+        "date": "September 2026",
+        "author": "Varsha Singh",
+        "location": "Florida, USA"
+      },
+      {
+        "title": "EU short-term rental stays rise 5.3 pc to 258.8 million in Q2 2026: Eurostat",
+        "url": "https://indiaoutbound.info/hotels/eu-short-term-rental-stays-rise-5-3-pc-to-258-8-million-in-q2-2026-eurostat/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Booking-EU-country-400x300.jpg",
+        "date": "September 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      },
+      {
+        "title": "AI use among short-term rental hosts rises to 58 pc globally: PriceLabs",
+        "url": "https://indiaoutbound.info/hotels/ai-use-among-short-term-rental-hosts-rises-to-58-pc-globally-pricelabs/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/08/Vietnam-3-400x300.jpg",
+        "date": "August 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      },
+      {
+        "title": "Marriott to add seven hotels with 1,262 rooms in Thailand",
+        "url": "https://indiaoutbound.info/hotels/marriott-to-add-seven-hotels-with-1262-rooms-in-thailand/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Lead-editorials-1-400x300.jpg",
+        "date": "October 2026",
+        "author": "India Outbound",
+        "location": "New Delhi"
+      }
+    ],
+    "adBanner": {
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/India-Outbound-Media-India-Group.jpg",
+      "url": "#"
+    }
+  },
+  "events": {
+    "sectionTitle": "Events",
+    "url": "https://indiaoutbound.info/category/events/",
+    "lead": {
+      "title": "Israel Tourism holds roadshow in Delhi with over 80 Indian travel trade partners",
+      "url": "https://indiaoutbound.info/io-exclusive/israel-tourism-holds-roadshow-in-delhi-with-over-80-indian-travel-trade-partners/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/Israel-Tourism-400x300.jpg",
+      "date": "October 2026",
+      "author": "Sanvi Choudhary",
+      "location": "New Delhi",
+      "category": "Events / IO Exclusive"
+    },
+    "items": [
+      {
+        "title": "With tourism at centre of economy, Malta PM aims for 10 pc annual growth",
+        "url": "https://indiaoutbound.info/events/with-tourism-at-centre-of-economy-malta-pm-aims-for-10-pc-annual-growth/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/WTTC-Malta-PM-400x300.jpeg",
+        "date": "October 2026",
+        "author": "Varsha Singh",
+        "location": "Valletta, Malta"
+      },
+      {
+        "title": "WTTC Global Summit opens in Malta with over 1,000 delegates in attendance",
+        "url": "https://indiaoutbound.info/events/wttc-global-summit-opens-in-malta-with-over-1000-delegates-in-attendance/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/10/WTTC-conclave-400x300.jpg",
+        "date": "October 2026",
+        "author": "India Outbound",
+        "location": "Valletta, Malta"
+      }
+    ]
+  },
+  "magazine": {
+    "sectionTitle": "Read our Magazine",
+    "url": "https://indiaoutbound.info/our-magazine/",
+    "issues": [
+      {
+        "issue": "Sep - Oct 2026",
+        "title": "India Outbound Sep - Oct 2026",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Cover-India-Outbound-Sep-Oct-2026-1-scaled-300x424.jpg",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      },
+      {
+        "issue": "Jul - Aug 2026",
+        "title": "India Outbound Jul - Aug 2026",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/07/India-Outbound-Jul-Aug-2026-Cover-300x424.jpg",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      },
+      {
+        "issue": "May - Jun 2026",
+        "title": "India Outbound May - June 2026",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/05/India-Outbound-may-june-final-cover-scaled-300x424.jpg",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      },
+      {
+        "issue": "Mar - Apr 2026",
+        "title": "India Outbound Mar - Apr 2026",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/03/IO_Mar-Apr_2026_COVER-scaled-300x424.jpg",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      },
+      {
+        "issue": "Jan - Feb 2026",
+        "title": "India Outbound Jan - Feb 2026",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/01/IO-Cover-IO-Jan-Feb-2026-scaled-300x424.jpg",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      },
+      {
+        "issue": "Nov - Dec 2025",
+        "title": "India Outbound Nov - Dec 2025",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2025/11/IO_Nov_Dec_25_Cover-scaled-300x424.webp",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      }
+    ]
+  },
+  "specialFeature": {
+    "sectionTitle": "Special Feature",
+    "url": "https://indiaoutbound.info/category/special-feature",
+    "lead": {
+      "title": "Diwali in Abu Dhabi: Turning Festival of Lights into a memorable family vacation",
+      "url": "https://indiaoutbound.info/special-feature/diwali-in-abudhabi-turning-festival-of-lights-into-a-memorable-family-vacation/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Abu-Dhabi-Diwali-1024x576.jpg",
+      "date": "October 22, 2026",
+      "category": "Special Feature"
+    },
+    "items": [
+      {
+        "title": "Abu Dhabi: A family holiday designed for every generation",
+        "url": "https://indiaoutbound.info/special-feature/abu-dhabi-a-family-holiday-designed-for-every-generation/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Yas-island-150x150.jpg",
+        "date": "September 2026"
+      },
+      {
+        "title": "Kuching puts Sarawak’s unique vegetarian flavours on the plate",
+        "url": "https://indiaoutbound.info/special-feature/kuching-puts-sarawaks-unique-vegetarian-flavours-on-the-plate/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Midin-150x150.jpg",
+        "date": "September 2026"
+      }
+    ],
+    "adBanners": [
+      {
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/AI_Xpress-Wali-Baat.webp",
+        "url": "#"
+      },
+      {
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/SquareSize_EN.webp",
+        "url": "#"
+      }
+    ]
+  },
+  "cruise": {
+    "sectionTitle": "Cruise",
+    "url": "https://indiaoutbound.info/category/cruise/",
+    "lead": {
+      "title": "Royal Caribbean Group takes 50 pc stake in JV with Sandals Resorts",
+      "url": "https://indiaoutbound.info/cruise/royal-caribbean-group-takes-50-pc-stake-in-jv-with-sandals-resorts/",
+      "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Royal-Caribbean-1024x576.jpg",
+      "date": "September 2026",
+      "category": "Cruise"
+    },
+    "items": [
+      {
+        "title": "67 pc of Indian travellers favour cruising across Europe: Royal Caribbean",
+        "url": "https://indiaoutbound.info/cruise/67-pc-off-indian-travellers-favour-cruising-across-europe-royal-caribbean/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/‘Legend-of-the-Seas-1-150x150.jpg",
+        "date": "September 2026"
+      },
+      {
+        "title": "Piraeus boosts Mediterranean cruise tourism with 1.85 million passengers",
+        "url": "https://indiaoutbound.info/cruise/piraeus-boosts-mediterranean-cruise-tourism-with-1-85-million-passengers/",
+        "img": "https://indiaoutbound.info/wp-content/uploads/2026/09/Piraeus--150x150.jpg",
+        "date": "September 2026"
+      }
+    ]
+  },
+  "ioTv": {
+    "sectionTitle": "IO TV",
+    "url": "https://indiaoutbound.info/io-tv/",
+    "videos": [
+      {
+        "title": "Travel South USA International Showcase 2026",
+        "url": "https://indiaoutbound.info/tv_video/travel-south-usa-international-showcase-2026/"
+      },
+      {
+        "title": "Uganda targets 100,000 Indian visitors by 2026",
+        "url": "https://indiaoutbound.info/tv_video/uganda-tourism-minister/"
+      },
+      {
+        "title": "Better connectivity to boost footfall from India to Spain",
+        "url": "https://indiaoutbound.info/tv_video/better-connectivity-to-boost-footfall-from-india-to-spain/"
+      },
+      {
+        "title": "Disney Adventure: The Ultimate Disney Vacation at Sea",
+        "url": "https://indiaoutbound.info/tv_video/disney-adventure-the-ultimate-disney-vacation-at-sea/"
+      },
+      {
+        "title": "Sabah is fully equipped to cater to Indian visitors",
+        "url": "https://indiaoutbound.info/tv_video/sabah-is-fully-equipped-to-cater-to-indian-visitors/"
+      },
+      {
+        "title": "Adam Gilchrist on best experiences for Indian visitors to Western Australia",
+        "url": "https://indiaoutbound.info/tv_video/adam-gilchrist-on-best-experiences-for-indian-visitors-to-western-australia/"
+      }
+    ]
+  },
+  "footer": {
+    "about": "India Outbound is India’s only B2B travel media platform, that encompasses a print magazine, a website, an online TV channel and dynamic social media platforms, entirely dedicated to the promotion of foreign destinations and products in India.",
+    "newsletters": [
+      {
+        "label": "IO General B2B Newsletter",
+        "url": "https://indiaoutbound.info/newsletters/"
+      },
+      {
+        "label": "IO Africa B2B Newsletter",
+        "url": "https://indiaoutbound.info/newsletters/"
+      }
+    ],
+    "email": "contact@indiaoutbound.info",
+    "quickMenu": [
+      {
+        "label": "Home",
+        "url": "https://indiaoutbound.info/"
+      },
+      {
+        "label": "Newsletters",
+        "url": "https://indiaoutbound.info/newsletters/"
+      },
+      {
+        "label": "Privacy Policy",
+        "url": "https://indiaoutbound.info/privacy-policy/"
+      },
+      {
+        "label": "Our Magazine",
+        "url": "https://indiaoutbound.info/our-magazine/"
+      },
+      {
+        "label": "Partner with us",
+        "url": "https://indiaoutbound.info/partner-with-us/"
+      },
+      {
+        "label": "Sitemap",
+        "url": "https://indiaoutbound.info/sitemap.xml"
+      }
+    ],
+    "recentPosts": [
+      {
+        "title": "ETOA launches second edition of ‘Showcase: Outbound India’",
+        "url": "https://indiaoutbound.info/trade-news/etoa-launches-second-edition-of-showcase-outbound-india/"
+      },
+      {
+        "title": "Taiwan at epicentre as Typhoon Champi disrupts hundreds of flights",
+        "url": "https://indiaoutbound.info/aviation/taiwan-at-epicentre-as-typhoon-champi-disrupts-hundreds-of-flights/"
+      }
+    ]
+  }
+}
